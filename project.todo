@@ -1,0 +1,14 @@
+# Markdone
+
+- Syntax
+	- Complete the syntax
+	- Check if Markdone.tmLanguage can extend Markdown.tmLanguage
+	- Resolve list conflicts
+- Editors
+	+ Add support for Sublime
+		+ Grammar
+		+ Theme
+	- Add support for Textmate
+		- test tmLanguage on TM
+		- write Readme.md instructions
+	- Add Markdone to other themes
