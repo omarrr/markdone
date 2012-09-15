@@ -3,15 +3,17 @@ Markdone
 
 A syntax for TODO lists based on Markdown.
 
-Markdone is a superset of Markdown. Every Markdone document is a valid Markdown document. Markdone documents extend Markdown syntax by adding TODO lists. 
+**Markdone** is a superset of [Markdown](http://daringfireball.net/projects/markdown/). Every Markdone document is a valid Markdown document. Markdone documents extend Markdown syntax by adding _TODO lists_.
 
 ## Why Markdone
 
-Plain text / Text based TODO lists are extremely comond. Despite many available tools such as online and client apps, plain text is more appropiate in certain occasions. It's allows for easy editing and portability.
+Text based TODO lists are extremely common. Despite many available online tools and client apps, plain text allows for easy access, editing and portability.
 
-Plain text plus syntax hightlighting allows to use any simple text editor such as Textmate or Sublime to manage TODO lists.
+Any text editor can be turned into a simple TODO app by enabling **syntax hightlight** for Markdone. This allows using editors such as Textmate or Sublime to code and manage TODO lists at the same time.
 
 ![example](https://github.com/omarrr/markdone/blob/master/images/example.png?raw=true)
+
+Syntax hightlight requires a _language grammar_ and a _theme_ that supports said grammar.
 
 ## Markdone syntax
 
