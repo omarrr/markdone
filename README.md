@@ -11,7 +11,7 @@ Plain text / Text based TODO lists are extremely comond. Despite many available 
 
 Plain text plus syntax hightlighting allows to use any simple text editor such as Textmate or Sublime to manage TODO lists.
 
-![example](https://github.com/omarrr/markdone/blob/master/images/example.png)
+![example](https://github.com/omarrr/markdone/blob/master/images/example.png?raw=true)
 
 ## Markdone syntax
 
