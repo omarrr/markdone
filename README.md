@@ -75,7 +75,7 @@ Install the contents of the folder `sublime/themes` (Sublime theme files) can un
 	
 	~/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default
 
-Curretly only the [Solarized theme](https://github.com/altercation/solarized) has been adapted to support Markdone.
+The [Solarized theme](https://github.com/altercation/solarized) has been adapted to support Markdone.
 
 ### Textmate
 [ details to follow ]
