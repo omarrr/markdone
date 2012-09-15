@@ -50,7 +50,7 @@ Sublists can be used to split a task in subtasks
 		+ Incompleted tasks might have completed subtasks
 
 ### Tags
-Tasks can have metadata in the form of tags (#, @)
+Tasks can have metadata in the form of `#` tags
 
 	+ Task A #tag1 #tag2
 	- Buy milk #store
