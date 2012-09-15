@@ -3,7 +3,7 @@ Markdone
 
 A syntax for TODO lists based on Markdown.
 
-**Markdone** is a superset of [Markdown](http://daringfireball.net/projects/markdown/). Every Markdone document is a valid Markdown document. Markdone documents extend Markdown syntax by adding _TODO lists_.
+**Markdone** is a superset of [Markdown](http://daringfireball.net/projects/markdown/). Every _Markdone_ document is a valid _Markdown_ document. Markdone documents extend Markdown syntax by adding _TODO lists_.
 
 ## Why Markdone
 
@@ -60,27 +60,26 @@ Tasks can have metadata in the form of `#` tags
 	- Call Dad #7pm
 
 ## Tools
-### Grammar File for Textmate and Sublime
 
-#### Sublime Text 2
+### Sublime Text 2
+
+**Grammar File**
+
 Install the contents of the folder `sublime/package` (Sublime language files) under
 	
 	~/Library/Application Support/Sublime Text 2/Packages/Markdone
 
-#### Textmate
-[ details to follow ]
+**Syntax Highlight Theme**
 
-### Syntax Highlight for Textmate and Sublime Text 2
-
-#### Sublime Text 2
 Install the contents of the folder `sublime/themes` (Sublime theme files) can under
 	
 	~/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default
 
 Curretly only the [Solarized theme](https://github.com/altercation/solarized) has been adapted to support Markdone.
 
-#### Textmate
+### Textmate
 [ details to follow ]
+
 
 ## Resources
 
