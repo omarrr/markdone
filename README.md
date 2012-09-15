@@ -17,9 +17,7 @@ Syntax hightlight requires a _language grammar_ and a _theme_ that supports said
 
 ## Markdone syntax
 
-A Markdone document is comprised of Markdown syntax and TODO lists.
-
-TODO lists are regular Markdown lists that always start with a `+` or `-` symbol. Lists that start with `*` remain regular unordered lists.
+A Markdone document is comprised of Markdown syntax and TODO lists. TODO lists are regular Markdown lists that always start with a `+` or `-` symbol. Lists that start with `*` remain regular unordered lists.
 
 Each line item of a TODO list is a task: 
 
@@ -46,7 +44,7 @@ Each line item is a task
 Sublists can be used to split a task in subtasks
 
 	+ This is completed task
-		+ This is a subtask of A
+		+ This is a subtask
 	- This is an incomplete task
 		- This is an incomplete subtask
 		+ Incompleted tasks might have completed subtasks
@@ -60,14 +58,12 @@ Tasks can have metadata in the form of tags (#, @)
 
 ### Example
 
-
 	- TODO syntax
 		+ Create a github project
 		- Define TODO grammar
 		- Write TODO tmLanguage for Textmate #pc
 		+ Write TODO example
 	- Call Dad #7pm
-
 
 ## Tools
 ### Grammar File for Textmate and Sublime
@@ -91,7 +87,6 @@ Curretly only the [Solarized theme](https://github.com/altercation/solarized) ha
 
 #### Textmate
 [ details to follow ]
-
 
 ## Resources
 
