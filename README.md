@@ -21,8 +21,8 @@ A Markdone document is comprised of Markdown syntax and TODO lists. TODO lists a
 
 Each line item of a TODO list is a task: 
 
-* List items starting with a `-` symbol are pending tasks.
-* Line items starting with a `+` symbol have already been completed.
+* Lines that start with `-` are **pending tasks**
+* Lines that start with `+` are **completed tasks**
 
 Eg:
 
@@ -31,13 +31,6 @@ Eg:
 	- Task C
 	+ Task D
 	- Task F
-
-
-## Todo Lists
-Each line item is a task
-
-	- Lines starting with a `-` are pending tasks
-	+ Line items starting with a `+` have already been completed
 
 ### Subtasks
 
@@ -50,6 +43,7 @@ Sublists can be used to split a task in subtasks
 		+ Incompleted tasks might have completed subtasks
 
 ### Tags
+
 Tasks can have metadata in the form of `#` tags
 
 	+ Task A #tag1 #tag2
@@ -90,8 +84,7 @@ Curretly only the [Solarized theme](https://github.com/altercation/solarized) ha
 
 ## Resources
 
-* [Markdown](http://daringfireball.net/projects/markdown/)
-* [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
+* [Markdown](http://daringfireball.net/projects/markdown/) & [Markdown syntax](http://daringfireball.net/projects/markdown/syntax)
 * [Solarized theme](https://github.com/altercation/solarized)
 * [todo.txt](http://todotxt.com/) is another text based TODO list format.
 
